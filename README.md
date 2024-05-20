@@ -5,10 +5,17 @@ Tasks can be categorized by priority (High, Medium, Low).
 
 Features
 User registration
+
+
+
 ![register](https://github.com/Absalat-G/Task-management-app/assets/101639270/0356fabf-09b3-428b-aba5-161f250d6be8)
 User login
+
+
+
 ![login](https://github.com/Absalat-G/Task-management-app/assets/101639270/3403601c-7190-4f64-99a5-9c2697a63978)
 Task management (Add, Edit, Delete)
+
 
 ![page](https://github.com/Absalat-G/Task-management-app/assets/101639270/d88613be-7c1a-4505-b7d1-a5e080520c9a)
 Task prioritization
